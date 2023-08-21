@@ -1,2 +1,2 @@
-# devOps-ED
+# devOps-EAD
 Aula de DevOps
